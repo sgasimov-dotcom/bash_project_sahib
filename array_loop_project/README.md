@@ -1,3 +1,4 @@
+```
 For Loops + Arrays Project Brief
 Scenario
 You have been provided with a text file called urls.txt which contains a list of
@@ -23,3 +24,4 @@ Extra Guidance
 command to learn how the cut and curl commands work. Have fun!
 ● When using the cut command, check out the -d and -f options.
 ● You will need to pipe to the cut command from the echo command.
+```
